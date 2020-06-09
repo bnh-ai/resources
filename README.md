@@ -6,7 +6,7 @@
 * **Phase III**: [Containment]()
 * **Phase IV**: [Eradication]()
 * **Phase V**: [Recovery]()
-* **Phase VI**: [Lessons Learned]
+* **Phase VI**: [Lessons Learned]()
 
 
 Please consider adding incidents to the Partnership on AI [Incident Registry](http://aiid.partnershiponai.org/).
