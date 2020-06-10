@@ -23,3 +23,9 @@ Please reach out to [contact@bnh.ai](mailto:contact@bnh.ai) for more information
 
 
 Comments or concerns? Please file a GitHub [issue](https://github.com/bnh-ai/resources/issues/new).
+<br>
+<br>
+<br>
+<br>
+<i><b>Disclaimer</b>: bnh.ai leverages a unique blend of legal and technical expertise to protect and advance clients’ data, analytics, and AI investments. Not all firm personnel, including named partners, are authorized to practice law.</i> 
+
