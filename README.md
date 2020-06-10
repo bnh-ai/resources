@@ -7,7 +7,7 @@
 * [Phase IV: Eradication]()<br>
 * [Phase V: Recovery]()<br>
 * [Phase VI: Lessons Learned]()<br>
-* [AI Incident Response References]()<br>
+* [List of References]()<br>
 
 
 ***
