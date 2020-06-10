@@ -1,5 +1,3 @@
-## List of bnh.ai Resources
-
 ## AI Incident Response Checklist
 
 * **Getting started**: [Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)
