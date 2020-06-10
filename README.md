@@ -9,8 +9,6 @@
 * [Phase VI: Lessons Learned]()<br>
 
 
-Please consider adding incidents to the Partnership on AI [Incident Registry](http://aiid.partnershiponai.org/).
-
 ***
 
 ## Additional Resources
