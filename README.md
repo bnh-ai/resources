@@ -1,4 +1,4 @@
-## bnh.ai Resources
+## List of bnh.ai Resources
 
 ## AI Incident Response Checklist
 
