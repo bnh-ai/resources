@@ -17,7 +17,7 @@
 
 ***
 
-Comments or quetsions? Please reach out to [contact@bnh.ai](mailto:contact@bnh.ai). 
+Comments or questions? Please reach out to [contact@bnh.ai](mailto:contact@bnh.ai). 
 <br>
 <br>
 <br>
