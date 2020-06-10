@@ -15,7 +15,7 @@ Please consider adding incidents to the Partnership on AI [Incident Registry](ht
 
 ## Additional Resources
 
-* [*What to Do When AI Fails: Guidelines for AI Incident Response* - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+* [What to Do When AI Fails: Guidelines for AI Incident Response - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
 
 ***
 
