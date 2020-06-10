@@ -19,10 +19,7 @@ Please consider adding incidents to the Partnership on AI [Incident Registry](ht
 
 ***
 
-Please reach out to [contact@bnh.ai](mailto:contact@bnh.ai) for more information about these resources.
-
-
-Comments or concerns? Please file a GitHub [issue](https://github.com/bnh-ai/resources/issues/new).
+Comments or quetsions? Please reach out to [contact@bnh.ai](mailto:contact@bnh.ai). 
 <br>
 <br>
 <br>
