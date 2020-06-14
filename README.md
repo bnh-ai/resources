@@ -1,12 +1,12 @@
 ## AI Incident Response Checklist
 
-* [Getting Started: Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
-* [Phase I: Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
-* [Phase II: Indentification](bnh.ai-AI-IR-Checklist-Identification.pdf)<br>
-* [Phase III: Containment](bnh.ai-AI-IR-Checklist-Containment.pdf)<br>
-* [Phase IV: Eradication](bnh.ai-AI-IR-Checklist-Eradication.pdf)<br>
-* [Phase V: Recovery](bnh.ai-AI-IR-Checklist-Recovery.pdf)<br>
-* [Phase VI: Lessons Learned](bnh.ai-AI-IR-Checklist-Lessons-Learned.pdf)<br>
+* [Getting Started - Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
+* [Phase I - Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
+* [Phase II - Indentification](bnh.ai-AI-IR-Checklist-Identification.pdf)<br>
+* [Phase III - Containment](bnh.ai-AI-IR-Checklist-Containment.pdf)<br>
+* [Phase IV - Eradication](bnh.ai-AI-IR-Checklist-Eradication.pdf)<br>
+* [Phase V - Recovery](bnh.ai-AI-IR-Checklist-Recovery.pdf)<br>
+* [Phase VI - Lessons Learned](bnh.ai-AI-IR-Checklist-Lessons-Learned.pdf)<br>
 * [List of References](bnh.ai-AI-IR-Checklist-References.pdf)<br>
 
 
