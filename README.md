@@ -7,7 +7,7 @@
 * [Phase IV: Eradication](bnh.ai-AI-IR-Checklist-Eradication.pdf)<br>
 * [Phase V: Recovery](bnh.ai-AI-IR-Checklist-Recovery.pdf)<br>
 * [Phase VI: Lessons Learned](bnh.ai-AI-IR-Checklist-Lessons-Learned.pdf)<br>
-* [List of References]()<br>
+* [List of References](bnh.ai-AI-IR-Checklist-References.pdf)<br>
 
 
 ***
