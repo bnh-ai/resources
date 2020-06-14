@@ -5,7 +5,7 @@
 * [Phase II: Indentification](bnh.ai-AI-IR-Checklist-Identification.pdf)<br>
 * [Phase III: Containment](bnh.ai-AI-IR-Checklist-Containment.pdf)<br>
 * [Phase IV: Eradication](bnh.ai-AI-IR-Checklist-Eradication.pdf)<br>
-* [Phase V: Recovery]()<br>
+* [Phase V: Recovery](bnh.ai-AI-IR-Checklist-Recovery.pdf)<br>
 * [Phase VI: Lessons Learned]()<br>
 * [List of References]()<br>
 
