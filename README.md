@@ -3,7 +3,7 @@
 * [Getting Started: Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
 * [Phase I: Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
 * [Phase II: Indentification](bnh.ai-AI-IR-Checklist-Identification.pdf)<br>
-* [Phase III: Containment]()<br>
+* [Phase III: Containment](bnh.ai-AI-IR-Checklist-Containment.pdf)<br>
 * [Phase IV: Eradication]()<br>
 * [Phase V: Recovery]()<br>
 * [Phase VI: Lessons Learned]()<br>
