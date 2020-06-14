@@ -1,7 +1,7 @@
 ## AI Incident Response Checklist
 
 * [Getting Started: Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
-* [Phase I: Preparation]()<br>
+* [Phase I: Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
 * [Phase II: Indentification]()<br>
 * [Phase III: Containment]()<br>
 * [Phase IV: Eradication]()<br>
