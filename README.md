@@ -1,4 +1,4 @@
-## AI Incident Response Checklist
+## Example AI Incident Response Checklist
 
 * [Getting Started - Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
 * [Phase I - Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
@@ -9,6 +9,8 @@
 * [Phase VI - Lessons Learned](bnh.ai-AI-IR-Checklist-Lessons-Learned.pdf)<br>
 * [List of References](bnh.ai-AI-IR-Checklist-References.pdf)<br>
 
+
+The Example AI Incident Response Checklist is shared under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which requires attribution, prohibits commercial use, and allows for non-commercial derivative works that retain the license. 
 
 ***
 
