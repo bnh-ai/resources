@@ -15,8 +15,9 @@
 ## Additional Resources
 
 
-* [10 Questions on AI Risk - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
-* [What to Do When AI Fails: Guidelines for AI Incident Response - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+* [*10 Questions on AI Risk* - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
+* [*What to Do When AI Fails: Guidelines for AI Incident Response* - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+* [*The Liabilities of Artificial Intelligence Are Increasing* - Law.com](https://www.law.com/legaltechnews/2020/06/15/the-liabilities-of-artificial-intelligence-are-increasing/)
 
 ***
 
