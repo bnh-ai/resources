@@ -10,7 +10,7 @@
 * [List of References](bnh.ai-AI-IR-Checklist-References.pdf)<br>
 
 
-The Example AI Incident Response Checklist is shared under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which requires attribution, prohibits commercial use, and allows for non-commercial derivative works that retain the license. 
+The Example AI Incident Response Checklist is shared under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 ***
 
