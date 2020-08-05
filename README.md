@@ -28,7 +28,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 * [Directive on Automated Decision-Making - Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Algorithm Charter for Aotearoa - New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
-* [ICO Overview of the Auditing Framework for AI and Its Core Components - UK Information Commissioner's Office](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
+* [Overview of the Auditing Framework for AI and Its Core Components - UK Information Commissioner's Office](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
 * [Supervisory Guidance on Model Risk Management - US Federal Reserve Board](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Artificial Intelligence Ethics Framework for the Intelligence Community - US Office of the Director of National Intelligence](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
 * [Model AI Governance Framework - Singapore Personal Data Protection Commission](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
