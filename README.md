@@ -26,12 +26,12 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ## Select Regulatory Guidance on AI
 
-* [Canada's Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=3259210)
-* [New Zealand's Algorithm Charter for Aotearoa](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
-* [UK ICO's An Overview of the Auditing Framework for AI and Its Core Components](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
-* [US Federal Reserve Board's Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
-* [US ODNI's Artificial Intelligence Ethics Framework for the Intelligence Community](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
-* [Singapore PDPC's Model AI Governance Framework](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
+* [Directive on Automated Decision-Making - Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+* [Algorithm Charter for Aotearoa - New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
+* [ICO Overview of the Auditing Framework for AI and Its Core Components - UK Information Commissioner's Office](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
+* [Supervisory Guidance on Model Risk Management - US Federal Reserve Board](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
+* [Artificial Intelligence Ethics Framework for the Intelligence Community - US Office of the Director of National Intelligence](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+* [Model AI Governance Framework - Singapore Personal Data Protection Commission](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
 
 
 ***
