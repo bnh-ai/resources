@@ -1,4 +1,4 @@
-## Sample AI Incident Response Checklist
+## Sample BNH.AI AI Incident Response Checklist
 
 * [Getting Started - Liability Triage](bnh.ai-AI-IR-Checklist-Liability-Triage.pdf)<br>
 * [Phase I - Preparation](bnh.ai-AI-IR-Checklist-Preparation.pdf)<br>
@@ -14,12 +14,25 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ***
 
-## Additional Resources
+## Additional BNH.AI Resources
 
 
 * [10 Questions on AI Risk - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
 * [What to Do When AI Fails: Guidelines for AI Incident Response - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+* [Why You Should Care About Debugging Machine Learning Models - O'Reilly Radar](https://www.oreilly.com/radar/why-you-should-care-about-debugging-machine-learning-models/)
 * [The Liabilities of Artificial Intelligence Are Increasing - Law.com](https://www.law.com/legaltechnews/2020/06/15/the-liabilities-of-artificial-intelligence-are-increasing/)
+
+***
+
+## Select Regulatory Guidance on AI
+
+* [Canada's Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=3259210)
+* [New Zealand's Algorithm Charter for Aotearoa](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
+* [UK ICO's An Overview of the Auditing Framework for AI and Its Core Components](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
+* [US Federal Reserve Board's Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
+* [US ODNI's Artificial Intelligence Ethics Framework for the Intelligence Community](https://www.intelligence.gov/artificial-intelligence-ethics-framework-for-the-intelligence-community)
+* [Singapore PDPC's Model AI Governance Framework](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
+
 
 ***
 
