@@ -24,7 +24,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ***
 
-## Regulatory Guidance on AI (That We Like)
+## Selected Regulatory Guidance on AI
 
 * [Directive on Automated Decision-Making - Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Algorithm Charter for Aotearoa - New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
