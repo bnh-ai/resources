@@ -19,8 +19,10 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 * [10 Questions on AI Risk - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
 * [What to Do When AI Fails: Guidelines for AI Incident Response - O'Reilly Radar](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+* [Build Your AI Incident Response Plan… Before It’s Too Late - Cyber Defense Magazine](https://www.cyberdefensemagazine.com/build-your-ai-incident-response-plan/)
 * [Why You Should Care About Debugging Machine Learning Models - O'Reilly Radar](https://www.oreilly.com/radar/why-you-should-care-about-debugging-machine-learning-models/)
 * [The Liabilities of Artificial Intelligence Are Increasing - Law.com](https://www.law.com/legaltechnews/2020/06/15/the-liabilities-of-artificial-intelligence-are-increasing/)
+* [How to Fight Discrimination in AI - Harvard Business Review](https://hbr.org/2020/08/how-to-fight-discrimination-in-ai)
 
 ***
 
