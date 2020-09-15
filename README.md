@@ -14,7 +14,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ***
 
-## Additional BNH.AI Resources
+## Recent BNH.AI Publications
 
 
 * [10 Questions on AI Risk - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
@@ -26,7 +26,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ***
 
-## Selected Regulatory Guidance on AI
+## Select Regulatory Guidance on AI
 
 * [Directive on Automated Decision-Making - Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Algorithm Charter for Aotearoa - New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
