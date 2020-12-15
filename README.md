@@ -23,6 +23,8 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 * [Build Your AI Incident Response Plan… Before It’s Too Late - Cyber Defense Magazine](https://www.cyberdefensemagazine.com/build-your-ai-incident-response-plan/)
 * [Why You Should Care About Debugging Machine Learning Models - O'Reilly Radar](https://www.oreilly.com/radar/why-you-should-care-about-debugging-machine-learning-models/)
 * [The Liabilities of Artificial Intelligence Are Increasing - Law.com](https://www.law.com/legaltechnews/2020/06/15/the-liabilities-of-artificial-intelligence-are-increasing/)
+* [Ethical Frameworks for AI Aren’t Enough](https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough)
+* [Artificial Intelligence Risk & Governance](https://ai.wharton.upenn.edu/artificial-intelligence-risk-governance/)
 
 ***
 
