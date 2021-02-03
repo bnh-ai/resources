@@ -25,6 +25,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 * [The Liabilities of Artificial Intelligence Are Increasing - Law.com](https://www.law.com/legaltechnews/2020/06/15/the-liabilities-of-artificial-intelligence-are-increasing/)
 * [Ethical Frameworks for AI Aren’t Enough - Harvard Business Review](https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough)
 * [AI/ML Risk & Security Working Group Whitepaper - Artificial Intelligence for Business at Wharton](https://ai.wharton.upenn.edu/artificial-intelligence-risk-governance/)
+* [Seven Legal Questions for Data Scientists](https://www.oreilly.com/radar/seven-legal-questions-for-data-scientists/)
 
 ***
 
