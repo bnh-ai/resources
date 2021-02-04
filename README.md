@@ -14,7 +14,7 @@ The above resources are shared under a [CC BY-NC-SA 4.0](https://creativecommons
 
 ***
 
-## BNH.AI Publications
+## Select BNH.AI Publications
 
 
 * [10 Questions on AI Risk - Future of Privacy Forum](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf) 
